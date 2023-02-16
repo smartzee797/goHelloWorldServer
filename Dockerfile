@@ -9,4 +9,3 @@ LABEL maintainer="Nofar Bluestein <nofarb@gmail.com>"
 #
 ADD go-sample-app /bin/
 # Command to run the executable
-ENTRYPOINT ["/bin/go-sample-app"]
